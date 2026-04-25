@@ -2,7 +2,7 @@
 
 ## What this project is
 
-This project is a set of Python tools for analysing SCADA historian data from the Crude Distillation Unit (CDU) at Jamnagar refinery. The immediate goal is to monitor kerosene yield, flag low-yield events automatically, and build a foundation for ML-based optimisation of key control handles (COT, reflux ratio, overhead pressure, crude blend ratio).
+This project is a set of Python tools for analysing SCADA historian data from the Crude Distillation Unit (CDU) at refinery. The immediate goal is to monitor kerosene yield, flag low-yield events automatically, and build a foundation for ML-based optimisation of key control handles (COT, reflux ratio, overhead pressure, crude blend ratio).
 
 ## The problem it solves
 
